@@ -1,0 +1,5 @@
+slug: laogu-fundamentals
+display_name: A股公司基本面速查
+description: A股上市公司基本面速查：输入公司名称或股票代码，输出结构化中文分析（行情快照、财务摘要、核心资产、关键事件、风险点、券商观点）。
+version: 1.0.1
+author: 老谷拆财报
