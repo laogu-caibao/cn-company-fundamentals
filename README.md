@@ -6,6 +6,10 @@ A股上市公司基本面速查 skill：输入公司名称或股票代码，输�
 
 ## 一键安装
 
+```bash
+npx skills add laogu-caibao/laogu-fundamentals
+```
+
 仓库地址（点击复制）：
 
 `https://github.com/laogu-caibao/laogu-fundamentals`
